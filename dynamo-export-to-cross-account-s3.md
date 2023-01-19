@@ -97,4 +97,8 @@ Finally configure table settings to your liking and proceed with reviewing your 
 
 
 
-
+## AWS Documentation 
+[DynamoDB cross account migration alternatives](https://aws.amazon.com/premiumsupport/knowledge-center/dynamodb-cross-account-migration/)
+[Policy Condition Keys](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
+[DynamoDB export output format](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/S3DataExport.Output.html)
+[Policy Principals](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html)
