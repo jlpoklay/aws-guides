@@ -7,7 +7,7 @@ First is to create an s3 bucket where you plan to export your DynamoDB data.
 After creating the bucket you should modify the bucket policies to allow your origin account to be able to write to the s3 bucket in your intended account.
 
 
-Replaces the vales  **/\*AWS Account ID\*/** and **/\*Target Bucket Name\*/** in the following policy.
+Replace the vales  **/\*AWS Account ID\*/** and **/\*Target Bucket Name\*/** in the following policy.
 
     {
     "Version": "2012-10-17",
